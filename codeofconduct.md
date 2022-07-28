@@ -9,7 +9,7 @@ If you have experienced or witnessed a violation of our code, please report it u
 
 We do not tolerate any form of discrimination or harassment based on gender, gender identity and expression, economic background, sexual orientation, disability, physical appearance, race, age, nationality, religion, mental illness, neuro(a)typicality, or other markers of identity. 
 
-Refraction DAO expects members, contributors, volunteers, and participants to support each other in upholding the Code of Conduct and co-creating an inclusive environment.
+RefractionDAO expects members, contributors, volunteers, and participants to support each other in upholding the Code of Conduct and co-creating an inclusive environment.
 
 ### **Goals of the Code**
 
@@ -18,7 +18,7 @@ The goal of this Code of Conduct is to (1) sustain a community where members, co
 ##### **Expected Standards**
 
 - Building a community grounded in care, connection, and support so that our work together in art and music is an opportunity for collective healing.  
-- Being accountable for the impact of our words & actions on others in spite of our intent. 
+- Being accountable for the impact of our words and actions on others in spite of our intent. 
 - Leading with empathy, generosity, and reciprocity. 
 - Engaging in open, honest, and authentic dialogue to build community and foster collaboration.
 - Assuming good faith by giving the benefit of the doubt and asking for clarity when in doubt.  
@@ -46,7 +46,7 @@ The goal of this Code of Conduct is to (1) sustain a community where members, co
 
 ### **Scope of the Code**
 
-**This Code of Conduct applies to all members, contributors, and volunteers in all spaces managed by Refraction DAO.**
+**This Code of Conduct applies to all members, contributors, and volunteers in all spaces managed by RefractionDAO.**
 
 This includes, but is not limited to, Refraction’s Discord server, email, Telegram IRL events, Metaverse spaces, and software or platforms used for Refraction projects. 
 
