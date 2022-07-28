@@ -92,7 +92,7 @@ The committee will…
 *The following consequences are adapted from [Seed Club’s Code of Conduct](https://docs.seedclub.xyz/seed-club-community-handbook/community/code-of-conduct).
 
 
-### **Scope of the Code**
+### **License & References**
 
 Refraction’s Code of Conduct references the following resources for inspiration, in no particular order:
 
